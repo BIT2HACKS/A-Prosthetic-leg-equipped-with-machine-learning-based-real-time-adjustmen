@@ -1,2 +1,2 @@
-# A-Prosthetic-leg-equipped-with-machine-learning-based-real-time-adjustmen
+# A-Prosthetic-leg-equipped-with-machine-learning-based-real-time-adjustment
 Developed a patented sensor-driven prosthetic leg system using machine learning for real-time joint adjustment. Applied linear regression on gait data to predict optimal joint angles with 88% accuracy (R²) and &lt;250 ms latency. Experimental results showed 25% improvement in gait stability compared to fixed-motion prosthetics across varied terrains.
